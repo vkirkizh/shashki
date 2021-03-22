@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1
+Encoding=UTF-8
+Name=shashki
+Type=Application
+Exec=/usr/bin/shashki
+Icon=shashki
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
+
