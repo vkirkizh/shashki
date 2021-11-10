@@ -1,0 +1,14 @@
+Tournament NegaScout (2 vs 2)	negascout	2	negascout	2	100
+Tournament NegaScout (4 vs 2)	negascout	4	negascout	2	100
+Tournament NegaScout (2 vs 4)	negascout	2	negascout	4	100
+Tournament NegaScout (4 vs 4)	negascout	4	negascout	4	100
+
+Tournament AlphaBeta (2 vs 2)	alphabeta	2	alphabeta	2	100
+Tournament AlphaBeta (4 vs 2)	alphabeta	4	alphabeta	2	100
+Tournament AlphaBeta (2 vs 4)	alphabeta	2	alphabeta	4	100
+Tournament AlphaBeta (4 vs 4)	alphabeta	4	alphabeta	4	100
+
+Tournament NegaMax (2 vs 2)		negamax		2	negamax		2	100
+Tournament NegaMax (4 vs 2)		negamax		4	negamax		2	100
+Tournament NegaMax (2 vs 4)		negamax		2	negamax		4	100
+Tournament NegaMax (4 vs 4)		negamax		4	negamax		4	100
